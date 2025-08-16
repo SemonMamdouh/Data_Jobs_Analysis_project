@@ -18,11 +18,10 @@
   * Data Analyst
   * Data Engineer
   * Data Scientist
-    * `![posted jobs by job title](G:\data_science_course\youtuob course with luke\Python_Data_Analytics_Course\num_jobs_title.png)`
+    
 ### 🏢 Companies
-* `![Top Companies](G:\data_science_course\youtuob course with luke\Python_Data_Analytics_Course\company.png)`
 * **Emprego** posted the **highest number of jobs overall**.
-`![Top Companies](G:\data_science_course\youtuob course with luke\Python_Data_Analytics_Course\egycom.png)`
+
 * In **Egypt**, **Henkel** posted the most **Data Analysis jobs**.
 
 ### 🌍 Countries
@@ -34,7 +33,6 @@
 
 * Most jobs are **Full-Time**.
 * In Egypt:
- `![Job Opportunities in Egypt](G:\data_science_course\youtuob course with luke\Python_Data_Analytics_Course\opp egy.png)`
 
   * **5.9%** of jobs allow **work from home**.
   * **44.8%** of jobs explicitly require a **degree**.
@@ -50,15 +48,13 @@
 ### 📈 Most Demanded Skills (US – Data Analysis Jobs)
 
 * **Python** is the **most demanded skill**.
-* `![Skills Demand](G:\data_science_course\youtuob course with luke\Python_Data_Analytics_Course\paid skills in us.png)`
 
 ### 🔑 Most Demanded Skills in Egypt
 
 * **Data Analyst** → SQL
 * **Data Engineer** → Python
 * **Data Scientist** → Python
-`![Skills Demand in Egypt](G:\data_science_course\youtuob course with luke\Python_Data_Analytics_Course\skillre egy.png)`
----
+
 
 ## 🔹 Key Insights
 
